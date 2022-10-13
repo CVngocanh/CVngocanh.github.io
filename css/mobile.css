@@ -2,6 +2,8 @@
   #banner {
     margin: 0%;
     padding: 0%;
+    width: 100%;
+    height: auto;
   }
   #container-target {
     display: grid;
