@@ -24,6 +24,27 @@ header {
   padding: 20% 0% 20% 0%;
   color: #fff;
 }
+* size */
+.size1 {
+  font-size: xx-large;
+  font-weight: bold;
+}
+.size2 {
+  font-size: x-large;
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+}
+.size3 {
+  font-size: larger;
+  text-decoration: none;
+  color: black;
+}
+.size4 {
+  font-size: x-large;
+  font-weight: bold;
+  text-decoration: none;
+}
 /* navbar */
 .container-nav-bar {
   display: grid;
