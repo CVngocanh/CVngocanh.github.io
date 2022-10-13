@@ -14,7 +14,8 @@
   }
   #container-job-info {
     font-size: 80%;
-    padding-left: 5%;
+    padding: 0% 0% 0% 5%;
+    margin: 0%;
     align-items: 70%;
   }
   #certificate {
@@ -24,5 +25,8 @@
     grid-template-columns: 99%;
     padding-left: 1%;
     font-size: 90%;
+  }
+  #footer {
+    margin-top: 30%;
   }
 }
