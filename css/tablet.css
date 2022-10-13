@@ -1,6 +1,6 @@
-@media only screen and (min-width: 992px) {
+@media (min-width: 768px) {
   * {
-    min-width: 992px;
+    min-width: 768px;
   }
   h3,
   h2 {
@@ -9,7 +9,7 @@
   /* banner */
   .container-all,
   .banner {
-    min-width: 992px;
+    min-width: 768px;
   }
   /* Job-info */
   .container-job-info {
@@ -53,6 +53,6 @@
     padding: 5%;
   }
   .footer {
-    min-width: 992px;
+    min-width: 768px;
   }
 }
