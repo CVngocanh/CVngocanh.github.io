@@ -7,7 +7,27 @@
     height: auto;
     box-sizing: border-box;
   }
-
+* size */
+.size1 {
+  font-size: xx-large;
+  font-weight: bold;
+}
+.size2 {
+  font-size: x-large;
+  font-weight: bold;
+  text-decoration: none;
+  color: black;
+}
+.size3 {
+  font-size: larger;
+  text-decoration: none;
+  color: black;
+}
+.size4 {
+  font-size: x-large;
+  font-weight: bold;
+  text-decoration: none;
+}
   /* //banner */
   header {
    width: 100%;
@@ -197,6 +217,7 @@
   }
   /* Certificate */
   .certificate {
+   margin-top: 20%;
     background-color: rgb(209, 205, 205);
     width: 100%;
   }
