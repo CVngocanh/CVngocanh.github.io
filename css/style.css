@@ -238,7 +238,7 @@ ul li::before {
 }
 
 .container-project {
-  padding: 0px 50px 0px 150px;
+  padding: 0% 0% 0% 10% ;
 }
 .container-project h2 {
   padding: 70px 50px 50px 0px;
